@@ -4,6 +4,16 @@
 **                                 README                                   **
 ******************************************************************************
 
+NOTE FROM Victor:
+
+looks like the opencl sdk doesnt run on Linux with HD4000. For that, intel released a open source project located here:
+
+http://cgit.freedesktop.org/beignet/tree/
+
+you can download the source code and following the install instructions from here http://www.freedesktop.org/wiki/Software/Beignet/
+
+after beignet is compiled and installed, you should be able to compile and run this example
+
 *****  Contents  *****
 
   - Overview
